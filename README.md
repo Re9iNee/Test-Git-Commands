@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## almost Finished
+## Gettings Started
+I did this intentionally to raise conflict with local and remote repos
 
 First, run the development server:
 
