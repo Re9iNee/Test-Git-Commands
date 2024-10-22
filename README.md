@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## almost Finished
+Yeah I've done making changes now lets get back to the terminal to see what changed! 
 
 First, run the development server:
 
